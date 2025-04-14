@@ -1,3 +1,4 @@
+# TODO: use simd for all characters
 import nimsimd/sse2
 import strutils, tables, bitops
 
